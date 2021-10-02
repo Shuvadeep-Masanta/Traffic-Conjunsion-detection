@@ -19,5 +19,5 @@ and resulting detection of congestion. From the number of vehicals we can detect
 5.Run the Traffic_detection_project.py .Change the input from line 211 of the code.
 
 <h2>Expected Output</h2><br/>
-From this project we get the total count of vehical and count of different type of vehical.<br/>
+From this project we get the total count of vehical and count of different type of vehical. From the input image.<br/>
 <br/>
